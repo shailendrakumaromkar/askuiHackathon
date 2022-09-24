@@ -27,9 +27,9 @@ For Hackathon I have used Creating Cloud Connector Service type of asset via ask
 
 
 ## Benefits
-•	This can be furthre enhanced to create complete business flow like query, update, delete
-•	This can also be used by across team
-•	This can also be used for other backend as well Amazon, Microsoft, Adobe, Google.
+- This can be furthre enhanced to create complete business flow like query, update, delete
+- This can also be used by across team
+- This can also be used for other backend as well Amazon, Microsoft, Adobe, Google.
 
 
 
