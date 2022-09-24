@@ -32,6 +32,7 @@ This can also be used for other backend as well Amazon, Microsoft, Adobe, Google
 ## Refer below recording covering each of the above steps
 
 http://recordit.co/yt2FJfJMsL --> create package
+
 https://recordit.co/v74ec4B5dF  --> Create Folder
 
 https://recordit.co/768N4JGWjG --> enter CCS name
