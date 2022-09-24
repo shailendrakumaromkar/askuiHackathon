@@ -1,10 +1,11 @@
-## About Use Case
+## Business Use Case
 This is iPaaS product which integrates with different SaaS backeng e.g. Salesforce, Amazon, Microsoft, Adobe, Google etc
-I have taken example of Salesforce backend
-Conection has been created via Admin UI
+I have taken example of Salesforce backend, Conection has been created via Admin UI in browser. We can use askui as well to achieve this.
+
+## Hackathon Scope
 I am using customised version of Eclipse product developed by my Company where customer can create different type of integration Business workflow which integrates with different SaaS backend.
 Product supports creating different type of assets e.g.- .Net,C, GraphQL,gRPC,REST, SOAP, WSDL,JSON, JMS etc.
-For Hackathon I have used Creating Cloud Connector Service type of asset via askui
+**For Hackathon I have used Creating Cloud Connector Service type of asset via askui**
 
 ## Steps to follow
 1.	In Eclipse 
@@ -35,14 +36,14 @@ For Hackathon I have used Creating Cloud Connector Service type of asset via ask
 
 ## Refer below recording covering each of the above steps
 
-http://recordit.co/yt2FJfJMsL --> create package
+- http://recordit.co/yt2FJfJMsL --> create package
 
-https://recordit.co/v74ec4B5dF  --> Create Folder
+- https://recordit.co/v74ec4B5dF  --> Create Folder
 
-https://recordit.co/768N4JGWjG --> enter CCS name
+- https://recordit.co/768N4JGWjG --> enter CCS name
 
-http://recordit.co/EtAxpOudQW --> create CCS, Select operation, Run CCS
+- http://recordit.co/EtAxpOudQW --> create CCS, Select operation, Run CCS
 
-http://recordit.co/39UMsh30yc --> clicking in Add Row icon
+- http://recordit.co/39UMsh30yc --> clicking in Add Row icon, **This is one of the challening part I faced**
 
-http://recordit.co/TbJbdAQYzy   --> Executing asset and verify the response
+- http://recordit.co/TbJbdAQYzy   --> Executing asset and verify the response
