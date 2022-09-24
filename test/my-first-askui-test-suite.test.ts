@@ -8,7 +8,6 @@ describe('jest with askui', () => {
       Create new Test Asset Package with name "askUICCSPackage"
       Under this create new folder with name askUICCSFolder
      
-    
     */
     await aui.click().text().withText("Default").exec();
     await aui.mouseRightClick().exec();
@@ -25,7 +24,6 @@ describe('jest with askui', () => {
     await aui.click().text().withText("Finish").exec();
 
     /*
-          Pre-requisite
           Create new Test Asset Package with name "askUICCSPackage"
           Under this create new folder with name askUICCSFolder
           Under this create new Cloud Connector Service with name "askUICCS"
@@ -71,9 +69,6 @@ describe('jest with askui', () => {
     await aui.click().text().withText("Finish").exec();
 
 
-
-
-
     /*
       Execute Cloud Connector Service
 
@@ -116,5 +111,43 @@ describe('jest with askui', () => {
   xit('interactive', async () => {
     await aui.annotate();
   });
+
+
+  
+  /*
+      Below use case is for future, please ignore as of now
+
+  */
+
+  // await aui.click().text().withText("CCS").exec();
+  // await aui.mouseRightClick().exec();
+  // await aui.click().text().withText("New").exec()
+  // await aui.click().text().withText("Cloud Connector service").exec()
+
+  // await aui.pressKey('delete').text().withText("new_cloudservice").exec();
+
+  // await aui.pressKey('backspace').exec();
+  //await aui.click().text().withText("CCS:CreateRelation").exec();
+  // await aui.moveMouseTo().text().withText("CreateRelation").exec();
+  // await aui.mouseToggleDown().exec();
+  // //.text().withText("*askUIFlov")
+  // //await aui.moveMouseTo().text().withText("*askUIFlow").below().
+  // await aui.moveMouseRelativelyTo(0, 30).text().withText("*askUIFlow").exec()
+  // await aui.mouseToggleUp().exec();
+
+
+
+
+  // await aui.typeIn("askUICCS").text().withText("Element name").exec();
+
+  // await aui.click().text().withText("Next >").exec();
+  // await aui.click().text().withText("Salesforce CRM").exec();
+  // await aui.click().text().withText("Next >").exec();
+  // await aui.click().text().withText("Connection:Basic").exec();
+  // await aui.click().text().withText("Finish").exec();
+
+  //.text().withText("Element name")
+  //await aui.click().text().withText("new_cloaskUICCSudservice").exec();
+
 
 });
