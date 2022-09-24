@@ -35,6 +35,8 @@ Product supports creating different type of assets e.g.- .Net,C, GraphQL,gRPC,RE
 
 
 ## Refer below recording covering each of the above steps
+Demo video : https://drive.google.com/file/d/1kvBArd8rWSx38c8AfdZQAPNV1g_uaIDe/view?usp=sharing
+Demo video (Backup in case of any issue for above one) : https://drive.google.com/file/d/12dqrUvEremj5r5_ZVxwGSZddGA6r6hCW/view?usp=sharing
 
 - http://recordit.co/yt2FJfJMsL --> create package
 
